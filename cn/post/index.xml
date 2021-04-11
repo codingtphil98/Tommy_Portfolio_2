@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>项目 on 我的博客</title>
+    <link>https://codingtphil98.github.io/Tommy_Portfolio_2/cn/post/</link>
+    <description>Recent content in 项目 on 我的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://codingtphil98.github.io/Tommy_Portfolio_2/cn/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>项目 1 - Circle Packing</title>
+      <link>https://codingtphil98.github.io/Tommy_Portfolio_2/cn/post/project_1/</link>
+      <pubDate>Tue, 30 Mar 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://codingtphil98.github.io/Tommy_Portfolio_2/cn/post/project_1/</guid>
+      <description>Link to paper I wrote on this project:
+Link to github repository:</description>
+    </item>
+    
+    <item>
+      <title>Project 6</title>
+      <link>https://codingtphil98.github.io/Tommy_Portfolio_2/cn/post/project_6/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>https://codingtphil98.github.io/Tommy_Portfolio_2/cn/post/project_6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project 5</title>
+      <link>https://codingtphil98.github.io/Tommy_Portfolio_2/cn/post/project_5/</link>
+      <pubDate>Thu, 13 Apr 2017 11:15:58 -0400</pubDate>
+      
+      <guid>https://codingtphil98.github.io/Tommy_Portfolio_2/cn/post/project_5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project 4</title>
+      <link>https://codingtphil98.github.io/Tommy_Portfolio_2/cn/post/project_4/</link>
+      <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
+      
+      <guid>https://codingtphil98.github.io/Tommy_Portfolio_2/cn/post/project_4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project 3</title>
+      <link>https://codingtphil98.github.io/Tommy_Portfolio_2/cn/post/project_3/</link>
+      <pubDate>Tue, 11 Apr 2017 11:13:32 -0400</pubDate>
+      
+      <guid>https://codingtphil98.github.io/Tommy_Portfolio_2/cn/post/project_3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project 2</title>
+      <link>https://codingtphil98.github.io/Tommy_Portfolio_2/cn/post/project_2/</link>
+      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://codingtphil98.github.io/Tommy_Portfolio_2/cn/post/project_2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
